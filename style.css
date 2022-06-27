@@ -47,7 +47,7 @@ main {
 }
 .portfolio-header {
   height: 800px;
-
+  bacground-image: url("https://github.com/ShaneCorless21/ShaneCorlessPortfolio/blob/main/images/background.jpg?raw=true");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
